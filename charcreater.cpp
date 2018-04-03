@@ -5,13 +5,13 @@
 
 struct stats{
 	int Vit,
-		Int,
-		End,
-		Str,
-		Dex,
-		Mag,
-		Faith,
-		Luck;
+	    Int,
+	    End,
+	    Str,
+	    Dex,
+	    Mag,
+	    Faith,
+	    Luck;
 	std::string Name;
 }Adder[6];
 
